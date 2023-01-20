@@ -211,7 +211,7 @@ button {
 }
 
 .layout_padding {
-     padding-top: 90px;
+     padding-top: 50px;
      padding-bottom: 0px;
 }
 .header_section {
@@ -220,9 +220,8 @@ button {
     background-image: url(../images/banner-bg.png);
     height: auto;
     padding-top: 27px;
-    padding-bottom: 25px;
     background-size: 100%;
-    padding-bottom: 201px;
+    padding-bottom: 80px;
 }
 .logo {
     width: 100%;
@@ -394,7 +393,7 @@ button {
     width: 100%;
     float: left;
     font-size: 50px;
-    color: #addaed;
+    color: #006c96;
     font-weight: 600;
 }
 .services_text{
@@ -537,7 +536,7 @@ button {
     width: 100%;
     float: left;
     font-size: 50px;
-    color: #addaed;
+    color: #006c96;
     font-weight: 600;
     text-align: center;
 }
